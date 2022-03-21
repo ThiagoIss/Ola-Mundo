@@ -3,3 +3,5 @@
 
 
 Repositório criado durante uma aula ao vivo.
+
+**Material** disponível *gratuitamente*
